@@ -195,6 +195,7 @@ The combined dataset includes transaction, account, and customer attributes for 
 The Power BI report contains two dashboard pages.
 
 Page 1 — Transaction & Customer Analysis
+<img width="1338" height="732" alt="Screenshot 2026-09-21 212803" src="https://github.com/user-attachments/assets/8c2e7895-2c3c-4b80-a5cd-485988b16986" />
 
 1. Inactive Accounts by Year and Month
 
@@ -237,6 +238,8 @@ Credit
 Debit
 
 📊 Page 2 — Account & Customer Analysis
+
+<img width="1310" height="712" alt="Screenshot 2026-09-21 212740" src="https://github.com/user-attachments/assets/7d89925f-b5ce-4a50-81f1-daed83364a87" />
 
 1. Monthly Transaction Balance by Month
 
